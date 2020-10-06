@@ -1,0 +1,26 @@
+* {
+    border: inset;
+    border-color: black;
+    background-color: orchid;
+}
+h1{
+    color: crimson;
+    
+}
+h3{
+    color: orangered
+}
+.heading1{
+    display: flex;
+    justify-content: center;
+    background-image: url("https://lh3.googleusercontent.com/proxy/sUEnf41UQWSKFLRN7mSFwPILqgypC0F4ilwdF9LTIgYCG03tSJFVTwlJ3dQyd93KqjlIQfxpTPBNh3fn5dpQqv6sfE-x1XDmqIzTgwiM8fSQ3-oPZ95v")
+}
+.heading2{
+    display: flex;
+    justify-content: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTECeaXxxtM1lJfIhG_HDpsgyVEvn1XOizVDw&usqp=CAU")
+}
+.hotal{
+    display: flex;
+    justify-content: flex-start;
+}
